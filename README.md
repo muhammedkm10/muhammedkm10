@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [React.js](https://github.com/muhammedkm10/furni)
 
-- 🌱 I’m currently learning **React.js,Rest Api,Mongo db**
+- 🌱 I’m currently learning **React.js,Rest Api,Mongo db,SQL,PYTHON,DJANGO,DJANGO REST FRAMEWORK**
 
 - 👨‍💻 All of my projects are available at [https://github.com/muhammedkm10//](https://github.com/muhammedkm10//)
 
